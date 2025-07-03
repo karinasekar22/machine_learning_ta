@@ -1,2 +1,4 @@
 # machine_learning_ta
-This project explores multiple machine learning approaches using the breast cancer dataset, including both supervised learning (Naive Bayes, Neural Network) and unsupervised learning (K-Means Clustering). The goal is to classify tumor types (malignant/benign) and compare algorithm performance.
+This project applies supervised learning methods to classify tumor types (malignant or benign) using the breast cancer dataset.
+The algorithms explored include Naive Bayes, K-Nearest Neighbors (KNN), and a basic Neural Network model, implemented in Python with Scikit-learn.
+Evaluation metrics include accuracy score and confusion matrix.
